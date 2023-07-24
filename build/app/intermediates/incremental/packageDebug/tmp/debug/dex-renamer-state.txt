@@ -1,0 +1,4 @@
+#Mon Jul 24 21:58:32 IST 2023
+base.0=/Users/NSV/Desktop/Flutterpractice/flutter_practice_sample/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
